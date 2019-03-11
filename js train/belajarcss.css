@@ -1,0 +1,16 @@
+h1 {color : blue;}
+
+.dua{font-size: 50px;text-shadow: 0px 8px 20px blue;}
+.tiga{border:2px double blue;}
+.empat{}
+
+#kotak1{
+  position: static;
+  border: 3px solid blue;
+  left: 30px;
+}
+#kotak2{ position: relative;
+  border: 3px solid green;}
+#kotak3{position: absolute;
+  border: 3px solid green;}
+#bungkus{}
